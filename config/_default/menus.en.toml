@@ -1,0 +1,34 @@
+[[main]]
+  identifier = ""
+  name = "Home"
+  url = ""
+  weight = 1
+
+[[main]]
+  identifier = "archive"
+  name = "Archive"
+  url = "archive"
+  weight = 2
+
+[[main]]
+  identifier = "gallery"
+  name = "Gallery"
+  url = "gallery"
+  weight = 4
+    
+[[main]]
+  parent = "gallery"
+  name = "Pics"
+  url = "gallery/pics"
+
+[[main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "tags"
+  weight = 3
+
+[[main]]
+  identifier = "about"
+  name = "About"
+  url = "about"
+  weight = 5
