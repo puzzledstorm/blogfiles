@@ -163,9 +163,9 @@ http://172.16.139.24:3005/login
 
 2. 导入面板
 
-   id： 893
-
-   https://grafana.com/grafana/dashboards/893-main/
+   id： 10619
+   
+   [Docker Container & Host Metrics](https://grafana.com/grafana/dashboards/10619-docker-host-container-overview/)
 
 3.  结果
 
