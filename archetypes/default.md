@@ -6,6 +6,8 @@ draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
+author: puzzled
+authorEmoji: 🦄
 tocFolding: false
 tocPosition: inner
 tocLevels: ["h2", "h3", "h4"]
