@@ -1,7 +1,7 @@
 ---
 title: "Python装饰器"
 date: 2023-02-16T08:19:12Z
-description: 
+description: …
 draft: false
 hideToc: false
 enableToc: true
@@ -26,7 +26,7 @@ image: images/feature1/8.jpg
 
 ## examples
 
-```python
+```
 import functools
 import time
 from threading import Thread
