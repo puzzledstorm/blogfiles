@@ -19,6 +19,7 @@ series:
 categories:
 - questions
 image: images/feature1/8.jpg
+---
 
 ## 装饰器是什么？
 装饰器是可调用的对象，其参数是另一个函数（被装饰的函数）。
