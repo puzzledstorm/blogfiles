@@ -31,7 +31,7 @@ image: images/feature1/2.jpg
 之前大熊猫的视频一直懒得放，趁着今天开始认真学习达芬奇，就是b站影视飓风的达芬奇教程，又想起来，干脆就放上来。
 [大熊猫，嘿嘿](https://www.bilibili.com/video/BV1qe4y1Q7sc)
 
-<iframe src="//player.bilibili.com/player.html?aid=556310554&bvid=BV1qe4y1Q7sc&cid=785028399&page=1" scrolling="true" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+{{< bilibili BV1qe4y1Q7sc >}}
 
 ## 达芬奇学习笔记/[影视飓风达芬奇教程](https://www.bilibili.com/video/BV1b7411A75j)
 ### [剪辑视频的完整流程](https://www.bilibili.com/video/BV1B7411A7M1)
