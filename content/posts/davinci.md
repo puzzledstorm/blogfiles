@@ -86,3 +86,4 @@ Ctrl＋F 全盘   Ctrl＋"＋，—"缩放时间线
 Shift＋Z时间线总览
 Alt＋Shift＋1.2.3 锁定轨道1.2.3  也可以换成F1,F2,F3锁定音频轨道
 ```
+![image](https://user-images.githubusercontent.com/74460276/224535792-65a365c2-ce56-46eb-aa5b-6b9b38b309ca.png)
