@@ -72,15 +72,15 @@ pass
 ↑ ↓：跳跃至上/下剪辑点  ←→向后 前移动一帧
 Shift＋←→：向后 前移动5帧
 Ctrl＋/添加剪辑
-Shift＋v选中片段   Shift＋【 】修剪，同时按住Ctrl可以波纹剪辑
+Shift＋V选中片段   Shift＋[ ]修剪，同时按住Ctrl可以波纹剪辑
 Shift＋delete 波纹删除
 Alt＋↑↓ 上/下移动一个轨道
 Ctrl＋T添加转场   Ctrl＋C复制属性，Alt＋V粘贴属性
 D 关闭/启用片段
 Ctrl＋R变速控制    Ctrl＋Shift＋L  链接片段(好像还有一个Ctrl＋Alt＋L)
 Shift＋Ctrl＋C   关键帧编辑器  Shift＋C曲线编辑器
-F定位素材   alt＋F媒体池定位
-Ctrl＋A 全选素材  alt＋Y向后选中所有素材   
+F定位素材   Alt＋F媒体池定位
+Ctrl＋A 全选素材  Alt＋Y向后选中所有素材   
 Alt＋Shift＋Y  向前选中所有素材
 Ctrl＋F 全盘   Ctrl＋"＋，—"缩放时间线
 Shift＋Z时间线总览
